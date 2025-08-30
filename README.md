@@ -24,11 +24,19 @@ The notebook contains charts such as:
 
 <img width="818" height="577" alt="image" src="https://github.com/user-attachments/assets/93f0af9c-39a9-4f10-8c6f-1893b229f2b1" />
 
+--
+
 <img width="973" height="573" alt="image" src="https://github.com/user-attachments/assets/d217abcf-8429-4348-b52c-811e4250e677" />
+
+--
 
 <img width="953" height="582" alt="image" src="https://github.com/user-attachments/assets/da8511e8-f9aa-4f2a-affd-41004d932192" />
 
+--
+
 <img width="1087" height="572" alt="image" src="https://github.com/user-attachments/assets/48ca55af-4c20-4324-b438-40854f8466e0" />
+
+--
 
 <img width="1141" height="361" alt="image" src="https://github.com/user-attachments/assets/8c2f54ba-0445-48d7-a928-a81c5aa33432" />
 
