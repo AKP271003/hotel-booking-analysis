@@ -46,7 +46,7 @@ The notebook contains charts such as:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/hotel-booking-analysis.git
+git clone https://github.com/AKP271003/hotel-booking-analysis.git
 cd hotel-booking-analysis
 ```
 
