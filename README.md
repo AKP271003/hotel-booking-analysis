@@ -68,5 +68,5 @@ jupyter nbconvert --to script analysis_notebook.ipynb
 ```
 This will generate analysis_notebook.py which can be executed directly.
 
-👨‍💻 Author
-Aniket Kumar Pandey
+## 👨‍💻 Author
+## Aniket Kumar Pandey
